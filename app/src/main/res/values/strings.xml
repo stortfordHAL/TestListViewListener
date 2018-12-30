@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestListViewListener</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="hello_world_welcome_to_my_app">Hello World! Welcome to my app!</string>
+</resources>
